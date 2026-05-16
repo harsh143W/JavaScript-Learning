@@ -1,7 +1,7 @@
 # JavaScript-Learning
 This repo is journey of my JS learning 
 
-lesson-1 </n> 
--JS basics  </n> 
--alert('..');
--document.body.innerHTML = '...';
+lesson-1 <br> 
+-JS basics   <br> 
+-alert('..'); <br> 
+-document.body.innerHTML = '...'; <br> 
