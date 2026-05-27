@@ -17,3 +17,14 @@ lesson-3 <br>
 -Escape characters: \' \n <br> 
 -Interpolation , multi-line strings <br> 
 
+lesson-4 <br> 
+-Html,CSS Review , console.log <br> 
+-script element <br> 
+-console.log and comments <br> 
+
+lesson-5 <br> 
+-variables <br> 
+
+lesson-6 <br> 
+-Booleans and IF- Statements <br> 
+
