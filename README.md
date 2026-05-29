@@ -42,4 +42,6 @@ while-01 <br>
 -while loop <br>  
 -do-while loop <br>  
 
-
+Practice01 <br> 
+-It's have some practice of loops <br>
+-prompt(.....); <br> 
