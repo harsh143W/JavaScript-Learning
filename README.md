@@ -31,4 +31,7 @@ lesson-6 <br>
 Array-01 <br> 
 -for loop and for of loop 
 
+Array-02 <br> 
+-Array Methods in this file <br> 
+
 
