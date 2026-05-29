@@ -34,4 +34,12 @@ Array-01 <br>
 Array-02 <br> 
 -Array Methods in this file <br> 
 
+for-in <br> 
+-As a name this file have for-in loop code   <br> 
+-for-in loop we use for object <br> 
+
+while-01 <br>  
+-while loop <br>  
+-do-while loop <br>  
+
 
