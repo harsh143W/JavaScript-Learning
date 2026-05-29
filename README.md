@@ -28,3 +28,7 @@ lesson-5 <br>
 lesson-6 <br> 
 -Booleans and IF- Statements <br> 
 
+Array-01 <br> 
+-for loop and for of loop 
+
+
