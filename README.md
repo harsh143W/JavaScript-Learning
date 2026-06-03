@@ -45,3 +45,5 @@ while-01 <br>
 Practice01 <br> 
 -It's have some practice of loops <br>
 -prompt(.....); <br> 
+
+Add files of array practice <br> 
