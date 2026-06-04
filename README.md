@@ -47,3 +47,5 @@ Practice01 <br>
 -prompt(.....); <br> 
 
 Add files of array practice <br> 
+
+Sum of  two numbers program <br> 
