@@ -51,3 +51,5 @@ Add files of array practice <br>
 Sum of  two numbers program <br> 
 Find the largest number in array program <br> 
 Make a simple calculator  <br> 
+
+sum of two number by +prompt 
